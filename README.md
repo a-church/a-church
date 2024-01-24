@@ -19,7 +19,8 @@ I would not like to be contacted as of now, but this will likely change once I b
     - [ ] Get an IC tape-out of fantasy computer
 - [ ] Broad Scope
   - [ ] Learn C++
-  - [ ] Learn LaTeX
+  - [ ] Learn Comprehensive LaTeX
+  - [ ] Learn SystemVerilog
   - [ ] Learn data structures and algorithms
   - [ ] Learn CSS and FINALLY make a good website
     - [ ] Learn JS, and make the website LibreJS compatible
