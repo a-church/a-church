@@ -8,7 +8,14 @@ I would not like to be contacted as of now, but this will likely change once I b
 - [ ] AI
   - [ ] Random Tree
   - [ ] Classical FFN
-  - [ ] Classical RNN
+  - [ ] Classical RN
+- [ ] OS
+  - [ ] x86-64 Operating System
+    - [ ] UEFI Bootloader
+      - [ ] COFF/Portable Executable Compiler
+        - [ ] COFF/PE image dissection 
+    - [ ] OS image build automation
+    - [ ] Yell at Microsoft for making Secure Boot badly
 - [ ] Architecture and Algorithms
   - [ ] Novel networking protocol
   - [ ] Novel file format
@@ -20,6 +27,7 @@ I would not like to be contacted as of now, but this will likely change once I b
 - [ ] Broad Scope
   - [ ] Learn C++
   - [ ] Learn Comprehensive LaTeX
+    - [X] I've written a couple papers in LaTeX at this point, but nothing super formal. A lot of it was copy-pasting whatever setup I needed, so document classes and BibTeX citations are still beyond my understanding.
   - [ ] Learn SystemVerilog
   - [ ] Learn data structures and algorithms
   - [ ] Learn CSS and FINALLY make a good website
